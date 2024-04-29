@@ -1,16 +1,4 @@
-# pages_avalie
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Google-flutter-logo svg](https://github.com/DalilaDeveloperMobile/Avalie-Atendimento/assets/29806802/1b23cef7-43e5-40a1-b219-d6de34e09b86)
+## Ex: Páginas Avaliação Atendimento ao Cliente.
+### ✅Reutilização de Código: [Udemy](https://www.udemy.com/share/102BJd3@p7zF8f-YB0nkcOJISuzPfXix_GDnC12tgJxvGnEISfHqFoA9-apHEm-t6VMzYTVx/)
+![Celular Grande](https://github.com/DalilaDeveloperMobile/Avalie-Atendimento/assets/29806802/17c00f95-d6be-4c93-b90d-1769dcc04149)
